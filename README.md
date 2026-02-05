@@ -11,6 +11,8 @@ This project builds a machine learning-based clinical decision support system to
 The system aims to simulate how a physician evaluates symptoms and laboratory results together.
 
 ## Dataset
+Dataset Link: https://www.kaggle.com/datasets/nudratabbas/vitamin-deficiency-disease-prediction-dataset/data
+
 The dataset contains **4,000 patient records** including:
 
 - Demographic information
